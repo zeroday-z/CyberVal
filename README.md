@@ -1,4 +1,1 @@
-
-UPDATED GO DOWNLOAD FROM RELEASES
-THX TO UC
-new
+works for latest patch - download from releases
